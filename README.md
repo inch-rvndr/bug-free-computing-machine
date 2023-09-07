@@ -2,7 +2,7 @@
 
   This repository is a collection of my solutions to the must do probelms in [geeksforgeeks](https://www.geeksforgeeks.org/must-do-coding-questions-for-companies-like-amazon-microsoft-adobe/)
 
-## 0. To get started follow the Books or Coding Interview University
+## To get started follow the Books or Coding Interview University
 
   0. [Coding Interview University](https://github.com/jwasham/coding-interview-university) is the perfect place to get started with your preperation.
   
